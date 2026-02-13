@@ -1,6 +1,8 @@
 # smart_calulator_project
 # 🧮 Smart Calculator (Streamlit App)
 
+live demo:https://smartcalculator.streamlit.app/
+
 A simple smart calculator built using Python and Streamlit.
 
 ## Features
